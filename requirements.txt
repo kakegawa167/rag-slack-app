@@ -1,0 +1,6 @@
+openai
+chromadb
+mysql-connector-python
+slack_sdk
+python-dotenv
+langchain
